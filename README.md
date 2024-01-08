@@ -43,7 +43,7 @@ By the end of this course, students will be able to:
 
 **Topic 3:** Integrating and Storing Data
 
-***Topic 4:** Ensuring Data Quality
+**Topic 4:** Ensuring Data Quality
 
 ### Advanced Topics
 **Topic 1:** No-Code Digital Mapping Automation
