@@ -28,13 +28,13 @@ By the end of this course, students will be able to:
 **Topic 3:** Impactful Digital Maps: A Framework for Analysis and Design III
 
 ### Spatial Data Visualization and Analysis
-**Topic 1:** Story-telling with Maps I: Summarizing Data across Scale
+**Topic 1:** Story-telling with Maps I: Summarizing Data across Spatiotemporal Scales
 
 **Topic 2:** Story-telling with Maps II: Problem-focused Spatial Analysis
 
 **Topic 3:** Principles of Web Mapping
 
-***Topic 4:** Web Map Sharing and Collaboration
+**Topic 4:** Web Map Sharing and Collaboration
 
 ### Spatial Data Collection, Storage, and Processing
 **Topic 1:** Collecting Data with Hardware
