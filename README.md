@@ -17,3 +17,22 @@ By the end of this course, students will be able to:
 4.	Perform map-making using basic cartographic principles and spatial analysis
 5.	Create maps that tell a clear spatial story across multiple geographic scales 
 6.	Share maps and dialogue with other people using maps over social media channels such as YouTube, Twitter, Facebook, Instagram, and/or TikTok
+
+## Course Outline
+
+### A Framework for Impactful Maps
+#### Week 1: Course Overview and Impactful Digital Maps: A Framework for Analysis and Design I
+
+#### Week 2: Impactful Digital Maps: A Framework for Analysis and Design II
+
+#### Week 3: Impactful Digital Maps: A Framework for Analysis and Design III
+
+### Theory and Practice of Data Collection, Storage, and Processing
+#### Week 4: Collecting Data with Hardware
+
+#### Week 5: Collecting Data with Software
+
+#### Week 6: Integrating and Storing Data
+
+#### Week 7: Ensuring Data Quality
+
