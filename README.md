@@ -36,17 +36,17 @@ By the end of this course, students will be able to:
 
 **Topic 4:** Web Map Sharing and Collaboration
 
-### Spatial Data Collection, Storage, and Processing
+### Spatial Data Collection, Storage, and PreProcessing
 **Topic 1:** Collecting Data with Hardware
 
 **Topic 2:** Collecting Data with Software
 
 **Topic 3:** Integrating and Storing Data
 
-**Topic 4:** Ensuring Data Quality
+**Topic 4:** Data Quality and Validation
 
 ### Advanced Topics
-**Topic 1:** No-Code Digital Mapping Automation
+**Topic 1:** No-Code Digital Mapping Pipelines and Automation
 
 **Topic 2:** Monitoring User Interactions with Digital Maps
 
