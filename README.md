@@ -21,34 +21,34 @@ By the end of this course, students will be able to:
 ## Course Outline
 
 ### A Framework for Impactful Maps
-**Topic 1:** Course Overview and Impactful Digital Maps: A Framework for Analysis and Design I
+- **Topic 1:** Course Overview and Impactful Digital Maps: A Framework for Analysis and Design I
 
-**Topic 2:** Impactful Digital Maps: A Framework for Analysis and Design II
+- **Topic 2:** Impactful Digital Maps: A Framework for Analysis and Design II
 
-**Topic 3:** Impactful Digital Maps: A Framework for Analysis and Design III
+- **Topic 3:** Impactful Digital Maps: A Framework for Analysis and Design III
 
 ### Spatial Data Visualization and Analysis
-**Topic 1:** Story-telling with Maps I: Summarizing Data across Spatiotemporal Scales
+- **Topic 1:** Story-telling with Maps I: Summarizing Data across Spatiotemporal Scales
 
-**Topic 2:** Story-telling with Maps II: Problem-focused Spatial Analysis
+- **Topic 2:** Story-telling with Maps II: Problem-focused Spatial Analysis
 
-**Topic 3:** Principles of Web Mapping
+- **Topic 3:** Principles of Web Mapping
 
-**Topic 4:** Web Map Sharing and Collaboration
+- **Topic 4:** Web Map Sharing and Collaboration
 
 ### Spatial Data Collection, Storage, and PreProcessing
-**Topic 1:** Collecting Data with Hardware
+- **Topic 1:** Collecting Data with Hardware
 
-**Topic 2:** Collecting Data with Software
+- **Topic 2:** Collecting Data with Software
 
-**Topic 3:** Integrating and Storing Data
+- **Topic 3:** Integrating and Storing Data
 
-**Topic 4:** Data Quality and Validation
+- **Topic 4:** Data Quality and Validation
 
 ### Advanced Topics
-**Topic 1:** No-Code Digital Mapping Pipelines and Automation
+- **Topic 1:** No-Code Digital Mapping Pipelines and Automation
 
-**Topic 2:** Monitoring User Interactions with Digital Maps
+- **Topic 2:** Monitoring User Interactions with Digital Maps
 
-**Topic 3:** Essential Skills for Advanced Map Hacking
+- **Topic 3:** Essential Skills for Advanced Map Hacking
 
