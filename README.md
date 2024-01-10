@@ -97,8 +97,20 @@ By the end of this course, students will be able to:
 
 ### Advanced Map Hacking
 - **Topic 1:** No-Code Digital Mapping Pipelines and Automation
-
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
 - **Topic 2:** Monitoring User Interactions with Digital Maps
-
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
 - **Topic 3:** Essential Skills for Advanced Map Hacking
-
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
