@@ -22,6 +22,10 @@ By the end of this course, students will be able to:
 
 ### A Framework for Impactful Maps
 - **Topic 1:** Course Overview and Impactful Digital Maps: A Framework for Analysis and Design I
+  - Lecture Notes and Readings (due at start of class)
+  - Lecture Slides
+  - Lab (due at start of next class)
+  - Activity (due at start of next class)
 
 - **Topic 2:** Impactful Digital Maps: A Framework for Analysis and Design II
 
