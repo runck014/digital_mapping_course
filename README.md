@@ -22,23 +22,43 @@ By the end of this course, students will be able to:
 
 ### A Framework for Impactful Maps
 - **Topic 1:** Course Overview and Impactful Digital Maps: A Framework for Analysis and Design I
-  - Lecture Notes and Readings (due at start of class)
+  - Lecture Notes and Readings
   - Lecture Slides
-  - Lab (due at start of next class)
-  - Activity (due at start of next class)
-
+  - Lab
+  - Activity
 - **Topic 2:** Impactful Digital Maps: A Framework for Analysis and Design II
-
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
 - **Topic 3:** Impactful Digital Maps: A Framework for Analysis and Design III
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
 
+    
 ### Spatial Data Visualization and Analysis
-- **Topic 1:** Story-telling with Maps I: Summarizing Data across Spatiotemporal Scales
-
-- **Topic 2:** Story-telling with Maps II: Problem-focused Spatial Analysis
-
-- **Topic 3:** Principles of Web Mapping
-
-- **Topic 4:** Web Map Sharing and Collaboration
+- **Topic 1:** Principles of Web Mapping
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+- **Topic 2:** Web Map Sharing and Collaboration
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+- **Topic 3:** Story-telling with Maps I: Summarizing Data across Spatiotemporal Scales
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+- **Topic 4:** Story-telling with Maps II: Problem-focused Spatial Analysis
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
 
 ### Spatial Data Collection, Storage, and PreProcessing
 - **Topic 1:** Collecting Data with Hardware
