@@ -45,7 +45,7 @@ By the end of this course, students will be able to:
 
 - **Topic 4:** Data Quality and Validation
 
-### Advanced Topics
+### Advanced Map Hacking
 - **Topic 1:** No-Code Digital Mapping Pipelines and Automation
 
 - **Topic 2:** Monitoring User Interactions with Digital Maps
