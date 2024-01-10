@@ -26,16 +26,19 @@ By the end of this course, students will be able to:
   - Lecture Slides
   - Lab
   - Activity
+  - Quiz
 - **Topic 2:** Impactful Digital Maps: A Framework for Analysis and Design II
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
+  - Quiz
 - **Topic 3:** Impactful Digital Maps: A Framework for Analysis and Design III
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
+  - Quiz
 
     
 ### Spatial Data Visualization and Analysis
@@ -44,30 +47,53 @@ By the end of this course, students will be able to:
   - Lecture Slides
   - Lab
   - Activity
+  - Quiz
+    
 - **Topic 2:** Web Map Sharing and Collaboration
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
+  - Quiz
 - **Topic 3:** Story-telling with Maps I: Summarizing Data across Spatiotemporal Scales
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
+  - Quiz
 - **Topic 4:** Story-telling with Maps II: Problem-focused Spatial Analysis
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
+  - Quiz
 
 ### Spatial Data Collection, Storage, and PreProcessing
 - **Topic 1:** Collecting Data with Hardware
-
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
 - **Topic 2:** Collecting Data with Software
-
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
 - **Topic 3:** Integrating and Storing Data
-
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
 - **Topic 4:** Data Quality and Validation
+  - Lecture Notes and Readings
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
+
 
 ### Advanced Map Hacking
 - **Topic 1:** No-Code Digital Mapping Pipelines and Automation
