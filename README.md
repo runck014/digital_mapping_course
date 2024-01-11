@@ -114,7 +114,9 @@ By the end of this course, students will be able to:
   - Activity
   - Quiz
 - **Topic 3:** Essential Skills for Advanced Map Hacking
-  - Lecture Notes and Readings
+  - Lecture Notes
+  - Readings
+    - Haklay 2013. Neogeography and the Delusion of Democratisation.
   - Lecture Slides
   - Lab
   - Activity
