@@ -81,14 +81,15 @@ By the end of this course, students will be able to:
   - Lab
   - Activity
   - Quiz
-- **Topic 3:** Integrating and Storing Data
+- **Topic 3:** Integration, Storing, and Quality Assuring Data
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
   - Quiz
-- **Topic 4:** Data Quality and Validation
-  - Lecture Notes and Readings
+- **Topic 4:** Geodesign and Generating Data to Imagine the Future
+  - Lecture Notes
+  - Readings: Slotterback et al. 2016
   - Lecture Slides
   - Lab
   - Activity
