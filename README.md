@@ -21,19 +21,19 @@ By the end of this course, students will be able to:
 ## Course Outline
 
 ### A Framework for Impactful Maps
-- **Topic 1:** Course Overview and Impactful Digital Maps: A Framework for Analysis and Design I
+- **Topic 1:** Course Overview and History of Map Hacking
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
   - Quiz
-- **Topic 2:** Impactful Digital Maps: A Framework for Analysis and Design II
+- **Topic 2:** Frameworks to analyze impactful digital maps
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
   - Activity
   - Quiz
-- **Topic 3:** Impactful Digital Maps: A Framework for Analysis and Design III
+- **Topic 3:** Techniques to design impactful digital maps
   - Lecture Notes and Readings
   - Lecture Slides
   - Lab
