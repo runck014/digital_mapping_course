@@ -22,7 +22,8 @@ By the end of this course, students will be able to:
 
 ### A Framework for Impactful Maps
 - **Topic 1:** Course Overview and History of Map Hacking
-  - Lecture Notes and Readings
+  - Lecture Notes
+  - Readings: McConchie 2015. Hacker Cartography. ACME. 14(3) pp874-898
   - Lecture Slides
   - Lab
   - Activity
