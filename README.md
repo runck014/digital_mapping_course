@@ -26,6 +26,7 @@ By the end of this course, students will be able to:
   - Readings:
       - McConchie 2015. Hacker Cartography. ACME.
       - Haklay et al 2008. Web Mapping 2.0. Geography Compass.
+      - Goodchild 2009. NeoGeography and the nature of geographic expertise. Jrnl Location Based Services
   - Lecture Slides
   - Lab
   - Activity
