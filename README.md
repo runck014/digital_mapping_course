@@ -38,7 +38,9 @@ By the end of this course, students will be able to:
   - Activity
   - Quiz
 - **Topic 3:** Techniques to design impactful digital maps
-  - Lecture Notes and Readings
+  - Lecture Notes
+  - Readings:
+    - Baxter and Sommerville 2011. Socio-technical systems: From design methods to systems engineering. Interacting with Computers.
   - Lecture Slides
   - Lab
   - Activity
