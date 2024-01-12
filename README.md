@@ -41,6 +41,7 @@ By the end of this course, students will be able to:
   - Lecture Notes
   - Readings:
     - Baxter and Sommerville 2011. Socio-technical systems: From design methods to systems engineering. Interacting with Computers.
+    - Mumford 2006. The story of socio-technical design: reflections on its successes, failures and potential.
   - Lecture Slides
   - Lab
   - Activity
