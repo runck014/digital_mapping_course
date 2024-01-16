@@ -21,7 +21,7 @@ By the end of this course, students will be able to:
 
 ## Course Materials
 - [Syllabus](https://www.dropbox.com/scl/fi/wh4c1731hq72zvepmm0cb/GEOG3523_syllabus_in_person.docx?rlkey=v30drily9g0ct0sollnursj8b&dl=0)
-- **In Class Notes**
+- In Class Notes
   - [Student note takers](https://docs.google.com/spreadsheets/d/1LXTePmv203b_BeoKpW6iGAbs8MvA7miz2ojbqKX3EQk/edit?usp=drive_link)
   - [Student notes](https://docs.google.com/document/d/1AVYVFtF9tBi4w8hK0iNxkqCfJi6k9rusFYCVo6gvlYM/edit)
 - [Student map impact presentation](https://docs.google.com/spreadsheets/d/1c4qGNcXkVMIrJODwFfpDhjDV2DI0jiTHq1GEgwWDAu0/edit?usp=drive_link)
