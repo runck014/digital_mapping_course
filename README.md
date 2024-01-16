@@ -31,7 +31,7 @@ By the end of this course, students will be able to:
 
 ## Course Outline
 
-### A Framework for Impactful Maps
+### Part 1: A Framework for Impactful Maps
 - **Topic 1:** Course Overview and History of Map Hacking
   - [Lecture Notes](https://www.dropbox.com/scl/fi/4py9uyxthxf2h6khqled4/01_Introduction_History_Digital-Mapping-Lecture-Notes.docx?rlkey=e44hqj66c6zx60tomi4zrzi5z&dl=0)
   - [Lecture and Activity Slides](https://www.dropbox.com/scl/fi/jyrzvt3f2yham4clofzmk/01_Introduction_History_Digital-Mapping-Lecture-Notes.pptx?rlkey=d97699b7dddz6ddjez6nkgwgf&dl=0)
