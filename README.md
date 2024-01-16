@@ -31,8 +31,8 @@ By the end of this course, students will be able to:
 
 ## Course Outline
 
-### Part 1: A Framework for Impactful Maps
-- **Topic 1:** Course Overview and History of Map Hacking
+### Part 1: A Framework for Impactful Maps 
+- **Topic 1:** Course Overview and History of Map Hacking (01/16/2024)
   - [Lecture Notes](https://www.dropbox.com/scl/fi/4py9uyxthxf2h6khqled4/01_Introduction_History_Digital-Mapping-Lecture-Notes.docx?rlkey=e44hqj66c6zx60tomi4zrzi5z&dl=0)
   - [Lecture and Activity Slides](https://www.dropbox.com/scl/fi/jyrzvt3f2yham4clofzmk/01_Introduction_History_Digital-Mapping-Lecture-Notes.pptx?rlkey=d97699b7dddz6ddjez6nkgwgf&dl=0)
   - [Lab 1](https://www.dropbox.com/scl/fi/dbryb9hk0nfyu5flx9gs6/01_Digital-Mapping-Lab-1.docx?rlkey=s29e4rlj4f2tc7the75knp9vh&dl=0)
@@ -42,7 +42,7 @@ By the end of this course, students will be able to:
       - Haklay et al 2008. Web Mapping 2.0. Geography Compass. [link](https://www.dropbox.com/scl/fi/c3i4qygodp9nw3zkyiral/Haklay-et-al.-2008-Web-Mapping-2.0-The-Neogeography-of-the-GeoWeb.pdf?rlkey=xbsoyczyykc3l3pizyl4t9nbv&dl=0)
       - Goodchild 2009. NeoGeography and the nature of geographic expertise. Jrnl Location Based Services [link](https://www.dropbox.com/scl/fi/iabc28eqyknrbgfo975ky/Goodchild-2009-NeoGeography-and-the-nature-of-geographic-expertis.pdf?rlkey=4jj7jwysl3r2hm2ifq7ky12h8&dl=0)
 
-- **Topic 2:** Frameworks to analyze impactful digital maps
+- **Topic 2:** Frameworks to analyze impactful digital maps (01/23/2024)
   - Readings
 
     - [link](https://www.dropbox.com/scl/fi/5xn7hmj7n4hq0gkhiiq10/Mumford-2006-The-story-of-socio-technical-design-reflections-o.pdf?rlkey=0d1v8c8ue98uvog57rlsbpv16&dl=0).
