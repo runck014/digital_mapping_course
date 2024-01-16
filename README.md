@@ -45,7 +45,7 @@ By the end of this course, students will be able to:
 - **Topic 2:** Frameworks to analyze impactful digital maps
   - Readings
 
-    - [link](https://www.dropbox.com/scl/fi/5xn7hmj7n4hq0gkhiiq10/Mumford-2006-The-story-of-socio-technical-design-reflections-o.pdf?rlkey=0d1v8c8ue98uvog57rlsbpv16&dl=0)
+    - [link](https://www.dropbox.com/scl/fi/5xn7hmj7n4hq0gkhiiq10/Mumford-2006-The-story-of-socio-technical-design-reflections-o.pdf?rlkey=0d1v8c8ue98uvog57rlsbpv16&dl=0).
     Mumford. 2006. The story of socio-technical design.
     **Note:** *Read this article thoughtfully. What are socio-technical systems? What are the components of each? What is the design approach in this tradition?* 
  
