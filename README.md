@@ -52,6 +52,7 @@ By the end of this course, students will be able to:
   - Lecture Notes
   - Readings:
     - Baxter and Sommerville 2011. Socio-technical systems: From design methods to systems engineering. Interacting with Computers.
+    - [link](https://www.dropbox.com/scl/fi/vozwbzfkabgez1qndlt12/Norman-1999-Affordance-conventions-and-design.pdf?rlkey=95i589jb23crr7snc2lu5ehkt&dl=0). Norman 1999. Affordance, conventions, and design. Interactions.
     - [link](https://www.dropbox.com/scl/fi/u3mi9dhbayjbeqnquzmba/Kotter-1995-Leading-Change-Why-Transformation-Efforts-Fail.pdf?rlkey=wdabd6i9hmchj11p0z2o5ouym&dl=0).
       Kotter 1995. Leading Change: Why Transformation Efforts Fail. HBR. **Note:** *Read this quickly focusing on the box call outs. This article provides a simple framework to think about change. It's commonly used in business and nonprofit management. What are the benefits of this simplicity? What are the limitations?*
   - Lecture Slides
