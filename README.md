@@ -38,9 +38,9 @@ By the end of this course, students will be able to:
   - [Lab 1](https://www.dropbox.com/scl/fi/dbryb9hk0nfyu5flx9gs6/01_Digital-Mapping-Lab-1.docx?rlkey=s29e4rlj4f2tc7the75knp9vh&dl=0)
   - [Quiz on Canvas](https://canvas.umn.edu/courses/423700/assignments/3734627)
   - [Activity 1 Assignment](https://canvas.umn.edu/courses/423700/assignments/3735006)
-  - Readings:
-      - McConchie 2015. Hacker Cartography. ACME.
-      - Haklay et al 2008. Web Mapping 2.0. Geography Compass.
-      - Goodchild 2009. NeoGeography and the nature of geographic expertise. Jrnl Location Based Services
+  - Optional Readings:
+      - McConchie 2015. Hacker Cartography. ACME. [link](https://www.dropbox.com/scl/fi/0dyaydlsvw227u1nm5z5z/McConchie-2015-Hacker-Cartography-Crowdsourced-Geography-OpenSt.pdf?rlkey=dhfi68lbwnq0j7zkpvr8hwvkx&dl=0)
+      - Haklay et al 2008. Web Mapping 2.0. Geography Compass. [link](https://www.dropbox.com/scl/fi/c3i4qygodp9nw3zkyiral/Haklay-et-al.-2008-Web-Mapping-2.0-The-Neogeography-of-the-GeoWeb.pdf?rlkey=xbsoyczyykc3l3pizyl4t9nbv&dl=0)
+      - Goodchild 2009. NeoGeography and the nature of geographic expertise. Jrnl Location Based Services [link](https://www.dropbox.com/scl/fi/iabc28eqyknrbgfo975ky/Goodchild-2009-NeoGeography-and-the-nature-of-geographic-expertis.pdf?rlkey=4jj7jwysl3r2hm2ifq7ky12h8&dl=0)
 
 
