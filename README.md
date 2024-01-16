@@ -18,19 +18,30 @@ By the end of this course, students will be able to:
 5.	Create maps that tell a clear spatial story across multiple geographic scales 
 6.	Share maps and dialogue with other people using maps over social media channels such as YouTube, Twitter, Facebook, Instagram, and/or TikTok
 
+
+## Course Materials
+- [Syllabus](https://www.dropbox.com/scl/fi/wh4c1731hq72zvepmm0cb/GEOG3523_syllabus_in_person.docx?rlkey=v30drily9g0ct0sollnursj8b&dl=0)
+- **In Class Notes**
+  - [Student note takers](https://docs.google.com/spreadsheets/d/1LXTePmv203b_BeoKpW6iGAbs8MvA7miz2ojbqKX3EQk/edit?usp=drive_link)
+  - [Student notes](https://docs.google.com/document/d/1AVYVFtF9tBi4w8hK0iNxkqCfJi6k9rusFYCVo6gvlYM/edit)
+- [Student map impact presentation](https://docs.google.com/spreadsheets/d/1c4qGNcXkVMIrJODwFfpDhjDV2DI0jiTHq1GEgwWDAu0/edit?usp=drive_link)
+
+
+
+
 ## Course Outline
 
 ### A Framework for Impactful Maps
 - **Topic 1:** Course Overview and History of Map Hacking
-  - Lecture Notes
+  - [Lecture Notes](https://www.dropbox.com/scl/fi/4py9uyxthxf2h6khqled4/01_Introduction_History_Digital-Mapping-Lecture-Notes.docx?rlkey=e44hqj66c6zx60tomi4zrzi5z&dl=0)
+  - [Lecture and Activity Slides](https://www.dropbox.com/scl/fi/jyrzvt3f2yham4clofzmk/01_Introduction_History_Digital-Mapping-Lecture-Notes.pptx?rlkey=d97699b7dddz6ddjez6nkgwgf&dl=0)
+  - [Lab 1](https://www.dropbox.com/scl/fi/dbryb9hk0nfyu5flx9gs6/01_Digital-Mapping-Lab-1.docx?rlkey=s29e4rlj4f2tc7the75knp9vh&dl=0)
+  - [Quiz on Canvas](https://canvas.umn.edu/courses/423700/assignments/3734627)
+  - [Activity 1 Assignment](https://canvas.umn.edu/courses/423700/assignments/3735006)
   - Readings:
       - McConchie 2015. Hacker Cartography. ACME.
       - Haklay et al 2008. Web Mapping 2.0. Geography Compass.
       - Goodchild 2009. NeoGeography and the nature of geographic expertise. Jrnl Location Based Services
-  - Lecture Slides
-  - Lab
-  - Activity
-  - Quiz
 - **Topic 2:** Frameworks to analyze impactful digital maps
   - Lecture Notes and Readings
   - Lecture Slides
