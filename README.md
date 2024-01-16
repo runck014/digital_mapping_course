@@ -52,7 +52,8 @@ By the end of this course, students will be able to:
   - Lecture Notes
   - Readings:
     - Baxter and Sommerville 2011. Socio-technical systems: From design methods to systems engineering. Interacting with Computers.
-    - Mumford 2006. The story of socio-technical design: reflections on its successes, failures and potential.
+    - [link](https://www.dropbox.com/scl/fi/u3mi9dhbayjbeqnquzmba/Kotter-1995-Leading-Change-Why-Transformation-Efforts-Fail.pdf?rlkey=wdabd6i9hmchj11p0z2o5ouym&dl=0).
+      Kotter 1995. Leading Change: Why Transformation Efforts Fail. HBR. **Note:** *Read this quickly focusing on the box call outs. This article provides a simple framework to think about change. It's commonly used in business and nonprofit management. What are the benefits of this simplicity? What are the limitations?*
   - Lecture Slides
   - Lab
   - Activity
