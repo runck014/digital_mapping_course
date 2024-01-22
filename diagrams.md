@@ -39,21 +39,24 @@ graph TD
 ## Scenario Tree Example
 
 ```mermaid
-graph TD
-    A[Disaster Prediction] --> B[Flood]
-    A --> C[Wildfire]
-    B --> D[Urban Area Response]
-    B --> E[Rural Area Response]
-    C --> F[Urban Area Response]
-    C --> G[Rural Area Response]
-    D --> D1[Evacuation Efficiency]
-    D --> D2[Emergency Services Readiness]
-    E --> E1[Communication Challenges]
-    E --> E2[Resource Allocation]
-    F --> F1[Population Density Challenges]
-    F --> F2[Infrastructure Impact]
-    G --> G1[Access to Technology]
-    G --> G2[Response Time]
+subgraph TD
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    A((AI-Assisted Disaster Response)) -->|Uses| B((AI System))
+    A -->|Manages| C((Natural Disasters))
+    A -->|Analyzes| D((Geographical Data))
+    A -->|Impacts| E((Urban and Rural Areas))
+    B -->|Predicts| B1((Floods))
+    B -->|Predicts| B2((Wildfires))
+    C -->|Includes| C1((Urban Impact))
+    C -->|Includes| C2((Rural Impact))
+    D -->|Optimizes| D1((Evacuation Routes))
+    E -->|Affects| E1((Population))
+    E -->|Involves| E2((Emergency Services))
+
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
+    style D fill:#fbf,stroke:#333,stroke-width:2px
+    style E fill:#ff9,stroke:#333,stroke-width:2px
 
 ```
 
@@ -62,13 +65,13 @@ graph TD
 
 ```mermaid
 graph TD
-    A[AI Data Analysis] -->|Predicts Disasters| B[Disaster Response Planning]
-    B -->|Urban Implementation| C[Urban Area Impact]
-    B -->|Rural Implementation| D[Rural Area Impact]
-    C -->|Feedback| E[Emergency Services in Urban]
-    D -->|Feedback| F[Emergency Services in Rural]
-    E -->|Informs| A
-    F -->|Informs| A
+    A[AI Data Analysis] -->|Predicts Disasters +| B[Disaster Response Planning]
+    B -->|Urban Implementation +| C[Urban Area Impact]
+    B -->|Rural Implementation +| D[Rural Area Impact]
+    C -->|Feedback -| E[Emergency Services in Urban]
+    D -->|Feedback -| F[Emergency Services in Rural]
+    E -->|Informs +| A
+    F -->|Informs +| A
 
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:2px
@@ -76,6 +79,7 @@ graph TD
     style D fill:#fbf,stroke:#333,stroke-width:2px
     style E fill:#ff9,stroke:#333,stroke-width:2px
     style F fill:#9ff,stroke:#333,stroke-width:2px
+
 
 ```
       
