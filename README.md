@@ -57,9 +57,23 @@ By the end of this course, students will be able to:
       **Note:** *Read these sections and note the various ways that space, time, and scale are conceptualized. What are the opportunities and limitations of each approach?*
 
 
+  - [Lecture Notes](https://www.dropbox.com/scl/fi/fse1wi2rpm3tvc1etu3zd/02_Impact_Frameworks_Digital-Mapping-Lecture-Notes.docx?rlkey=rqijy2cul18qcu7vxfpe1k66g&dl=0)
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/cprtt0qw54ij2nym10ce7/02_Impact_Frameworks_Digital-Mapping-Lecture.pptx?rlkey=sre1v9xuy2gy1bq45dts3iw5d&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/z2qhtqdxssukjkc6fhyg1/02_Digital-Mapping-Lab-2.docx?rlkey=co34jpt8rjx41crb0edg380np&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/uhgp28mmf7w790q4fiyjs/02-Digital-Mapping-Activity-2-Assignment.docx?rlkey=jl6d160wxq8fowtl3h6644xmv&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3751104)
+
+
+- **Topic 3:** Techniques to design impactful digital maps (01/30/2024)
+  - Readings:
+    - [link](https://www.dropbox.com/scl/fi/m7iakzqewkk3ulhjaqz0r/Baxter-and-Sommerville-2011-Socio-technical-systems-From-design-methods-to-sy.pdf?rlkey=z07iu2k1gsqhsq1lz591028n9&dl=0)
+      Baxter and Sommerville 2011. Socio-technical systems: From design methods to systems engineering. Interacting with Computers.
+    - [link](https://www.dropbox.com/scl/fi/vozwbzfkabgez1qndlt12/Norman-1999-Affordance-conventions-and-design.pdf?rlkey=95i589jb23crr7snc2lu5ehkt&dl=0). Norman 1999. Affordance, conventions, and design. Interactions.
+    - [link](https://www.dropbox.com/scl/fi/u3mi9dhbayjbeqnquzmba/Kotter-1995-Leading-Change-Why-Transformation-Efforts-Fail.pdf?rlkey=wdabd6i9hmchj11p0z2o5ouym&dl=0).
+      Kotter 1995. Leading Change: Why Transformation Efforts Fail. HBR. **Note:** *Read this quickly focusing on the box call outs. This article provides a simple framework to think about change. It's commonly used in business and nonprofit management. What are the benefits of this simplicity? What are the limitations?*
+  - [Map Inspiration Presentation Signup](https://docs.google.com/spreadsheets/d/1c4qGNcXkVMIrJODwFfpDhjDV2DI0jiTHq1GEgwWDAu0/edit#gid=0)
   - Lecture Notes
   - Lecture Slides
   - Lab
   - Activity
   - Quiz
-
