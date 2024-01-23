@@ -57,8 +57,8 @@ By the end of this course, students will be able to:
       **Note:** *Read these sections and note the various ways that space, time, and scale are conceptualized. What are the opportunities and limitations of each approach?*
 
 
-  - Lecture Notes
-  - Lecture Slides
+  - [Lecture Notes](https://www.dropbox.com/scl/fi/fse1wi2rpm3tvc1etu3zd/02_Impact_Frameworks_Digital-Mapping-Lecture-Notes.docx?rlkey=rqijy2cul18qcu7vxfpe1k66g&dl=0)
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/cprtt0qw54ij2nym10ce7/02_Impact_Frameworks_Digital-Mapping-Lecture.pptx?rlkey=sre1v9xuy2gy1bq45dts3iw5d&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/z2qhtqdxssukjkc6fhyg1/02_Digital-Mapping-Lab-2.docx?rlkey=co34jpt8rjx41crb0edg380np&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/uhgp28mmf7w790q4fiyjs/02-Digital-Mapping-Activity-2-Assignment.docx?rlkey=jl6d160wxq8fowtl3h6644xmv&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3751104)
