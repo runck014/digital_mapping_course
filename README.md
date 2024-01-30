@@ -76,8 +76,8 @@ By the end of this course, students will be able to:
   - [Lecture Notes](https://www.dropbox.com/scl/fi/n4h6g69jnptz0rva3jamn/03_Analysis_Techniques_Digital-Mapping-Lecture-Notes.docx?rlkey=e50rdkiohliuyds7p7sokra18&dl=0)
   - [Lecture Slides](https://www.dropbox.com/scl/fi/tz61yn681jhaw1uxwn5e3/03_Analysis_Techniques_Digital-Mapping-Lecture.pptx?rlkey=01lsxld5bft4ew542mhwmuuuh&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/sro66ks2r04zsrqjcrneq/03_Digital-Mapping-Lab-3.docx?rlkey=auiofxv7sf2bk23osce44pnlg&dl=0)
-  - Activity
-  - Quiz
+  - [Activity](https://www.dropbox.com/scl/fi/d2f1ezqcmi55v0f7x6odc/03-Digital-Mapping-Activity-3-Assignment.docx?rlkey=yba4d4b651tpk9g7jueuxj2rd&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3759219)
  
 ### Part 2: Spatial Data Visualization and Analysis (02/06/2024)
 - **Topic 1:** Principles of Web Mapping
