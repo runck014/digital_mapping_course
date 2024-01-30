@@ -72,7 +72,7 @@ By the end of this course, students will be able to:
     - [link](https://www.dropbox.com/scl/fi/u3mi9dhbayjbeqnquzmba/Kotter-1995-Leading-Change-Why-Transformation-Efforts-Fail.pdf?rlkey=wdabd6i9hmchj11p0z2o5ouym&dl=0).
       Kotter 1995. Leading Change: Why Transformation Efforts Fail. HBR. **Note:** *Read this quickly focusing on the box call outs. This article provides a simple framework to think about change. It's commonly used in business and nonprofit management. What are the benefits of this simplicity? What are the limitations?*
   - [Map Inspiration Presentation Signup](https://docs.google.com/spreadsheets/d/1c4qGNcXkVMIrJODwFfpDhjDV2DI0jiTHq1GEgwWDAu0/edit#gid=0)
-  - [Example Map Inspiration Presentation]()
+  - [Example Map Inspiration Presentation](https://docs.google.com/presentation/d/1AmKitoWbCqK3ZeWPFVe1dm0KkKqUaknvkp1MQErbM9g/edit#slide=id.p)
   - [Lecture Notes](https://www.dropbox.com/scl/fi/n4h6g69jnptz0rva3jamn/03_Analysis_Techniques_Digital-Mapping-Lecture-Notes.docx?rlkey=e50rdkiohliuyds7p7sokra18&dl=0)
   - [Lecture Slides](https://www.dropbox.com/scl/fi/tz61yn681jhaw1uxwn5e3/03_Analysis_Techniques_Digital-Mapping-Lecture.pptx?rlkey=01lsxld5bft4ew542mhwmuuuh&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/sro66ks2r04zsrqjcrneq/03_Digital-Mapping-Lab-3.docx?rlkey=auiofxv7sf2bk23osce44pnlg&dl=0)
