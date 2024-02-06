@@ -79,10 +79,22 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/d2f1ezqcmi55v0f7x6odc/03-Digital-Mapping-Activity-3-Assignment.docx?rlkey=yba4d4b651tpk9g7jueuxj2rd&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3759219)
  
-### Part 2: Spatial Data Visualization and Analysis (02/06/2024)
-- **Topic 1:** Principles of Web Mapping
+### Part 2: Spatial Data Visualization and Analysis 
+- **Topic 1:** Data-driven Maps and Dashboards (02/06/2024)
   - [Lecture Notes](https://www.dropbox.com/scl/fi/mj8zb35o70y6e48jzac5o/04_Data_driven_Map_Hacking-Lecture-Notes.docx?rlkey=zriccp6yeqyp5jojcw7a7ps7a&dl=0)
   - [Lecture Slides](https://www.dropbox.com/scl/fi/c1w8n3xruqrx3oyhdw87m/04_Data_driven_Map_Hacking.pptx?rlkey=gtwqc3aq7zea4vsdmxq6bn7i6&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/35fqfzxz7eajn9n5iws9s/04_Digital-Mapping-Lab-4.docx?rlkey=cjubdl2981f91q2i12mik6a8j&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/psscd1p8ggttrtzium8p2/04-Digital-Mapping-Activity-4-Assignment.docx?rlkey=x218af5mxusoo0xq32iwtt1sx&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3765374)
+ 
+- **Topic 2:** Sharing and Collaboration (02/13/2024)
+  - Readings. **Note:** *In both readings, focus on how the authors describe people, design processes, and technology accessibility.*
+    - [link](https://www.dropbox.com/scl/fi/l3uef0qmkausmxrqxqqw3/Haklay-and-Tob-n-2003-Usability-evaluation-and-PPGIS-towards-a-user-cen.pdf?rlkey=k4o31z86f3tdoouw7wwjmy11b&dl=0).
+      Haklay and Tobon. 2003. Usability evaluation and PPGIS: towards a user-centered design approach.
+    - [link](https://www.dropbox.com/scl/fi/ix9y35twm2d489gc1ur3z/Sieber-2006-Public-Participation-Geographic-Information-System.pdf?rlkey=y77d8s0anuwcdc031nb2tvlyo&dl=0)
+      Sieber. 2006. Public Participation Geographic Information Systems: A Literature Review and Framework.
+  - Lecture Notes
+  - Lecture Slides
+  - Lab
+  - Activity
   - Quiz
