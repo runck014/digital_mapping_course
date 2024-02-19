@@ -107,6 +107,6 @@ By the end of this course, students will be able to:
     - Optional. [link](https://doc.arcgis.com/en/arcgis-online/analyze/aggregate-points-mv.htm). Summarize Data tools in ArcGIS Online. For reference only.
   - Lecture notes
   - Lecture Slides
-  - Lab
+  - [Lab](https://www.dropbox.com/scl/fi/2s20hvc52vq64v3upkjwu/06_Digital-Mapping-Lab-6.docx?rlkey=ux1x7s7l3koxj69ktwgaiim9z&dl=0)
   - Activity
-  - Quiz 
+  - [Quiz](https://www.dropbox.com/scl/fi/p65o0w79kdque9wudx5yx/06_Digital-Mapping-Quiz-6.docx?rlkey=k5kwc59edmd0j8768f7zx69v9&dl=0)
