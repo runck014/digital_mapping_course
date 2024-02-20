@@ -105,8 +105,8 @@ By the end of this course, students will be able to:
       Roth. 2021. Cartographic Design as Visual Storytelling: Synthesis and Review of Map-Based Narratives, Genres, and Tropes
     - Optional. [link](https://doc.arcgis.com/en/arcgis-online/analyze/summary-statistics-mv.htm). Summary Statistics. For reference only.
     - Optional. [link](https://doc.arcgis.com/en/arcgis-online/analyze/aggregate-points-mv.htm). Summarize Data tools in ArcGIS Online. For reference only.
-  - Lecture notes
-  - Lecture Slides
+  - [Lecture notes](https://www.dropbox.com/scl/fi/ht1gwr2lfib0il54pddfg/06_storytelling-Lecture-Notes.docx?rlkey=1efkgaal95r0tpp6d2m12o5eh&dl=0)
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/c23c5o8chpumbj4sga0rt/06_data_storytelling_summarization.pptx?rlkey=ukoy3f9yclm2o7sjwpgh1fsz4&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/2s20hvc52vq64v3upkjwu/06_Digital-Mapping-Lab-6.docx?rlkey=ux1x7s7l3koxj69ktwgaiim9z&dl=0)
-  - Activity
-  - [Quiz](https://www.dropbox.com/scl/fi/p65o0w79kdque9wudx5yx/06_Digital-Mapping-Quiz-6.docx?rlkey=k5kwc59edmd0j8768f7zx69v9&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/06ng3nurr1l99fe5erg55/06-Digital-Mapping-Activity-6-Assignment.docx?rlkey=kexfpgbmw00ojdmzfyyvwlr24&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3775942)
