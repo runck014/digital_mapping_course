@@ -110,3 +110,11 @@ By the end of this course, students will be able to:
   - [Lab](https://www.dropbox.com/scl/fi/2s20hvc52vq64v3upkjwu/06_Digital-Mapping-Lab-6.docx?rlkey=ux1x7s7l3koxj69ktwgaiim9z&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/06ng3nurr1l99fe5erg55/06-Digital-Mapping-Activity-6-Assignment.docx?rlkey=kexfpgbmw00ojdmzfyyvwlr24&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3775942)
+
+- **Topic 4:** Story-telling with Maps II: Spatial Analysis
+  - Readings. **None this week**
+  - Lecture Notes
+  - Lecture Slides
+  - Lab
+  - Activity
+  - Quiz
