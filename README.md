@@ -99,7 +99,7 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/quhn4eq5cwdes7p7aemuz/05-Digital-Mapping-Activity-5Assignment.docx?rlkey=4ss1o5z3zpb6ngwnxl18i3u00&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3771024)
 
-- **Topic 3:** Story-telling with Maps: Data Summarization
+- **Topic 3:** Story-telling with Maps: Data Summarization (02/20/2024)
   - Readings. **Note:** Read Roth deeply.
     - [link](https://www.dropbox.com/scl/fi/3p0kk00fcmd0spctndji6/Roth-2021-Cartographic-Design-as-Visual-Storytelling-Synthe.pdf?rlkey=9fdy4k9abm1ey8ckknsl7yjlo&dl=0).
       Roth. 2021. Cartographic Design as Visual Storytelling: Synthesis and Review of Map-Based Narratives, Genres, and Tropes
@@ -111,10 +111,13 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/06ng3nurr1l99fe5erg55/06-Digital-Mapping-Activity-6-Assignment.docx?rlkey=kexfpgbmw00ojdmzfyyvwlr24&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3775942)
 
-- **Topic 4:** Story-telling with Maps II: Spatial Analysis
+- **Topic 4:** Story-telling with Maps II: Spatial Analysis (02/27/2024)
   - Readings. **None this week**
-  - Lecture Notes
-  - Lecture Slides
-  - Lab
-  - Activity
-  - Quiz
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/2gn3r2zaxn73kqwimsif8/07_data_storytelling_analysis.pptx?rlkey=b5uakwrnuhwzohkvolorewe9h&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/xgzpcr6uma92qrkox6ok6/07_Digital-Mapping-Lab-7.docx?rlkey=s2ww8a9mt9rxhvj8cjh2oqt74&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/inhnm7qoy3df02zh28mco/07-Digital-Mapping-Activity-7-Assignment.docx?rlkey=tjl8qeasdk1lea27ydnh10zn7&dl=0)
+  - [Quiz](https://www.dropbox.com/scl/fi/wiyg7nsh0wezs1qzzt8ii/07_Digital-Mapping-Quiz-7.docx?rlkey=t3idojz817an7w91n1netjbvi&dl=00)
+
+### Part 3: Spatial Data Collection, Storage, and Preprocessing
+- **Topic 1:** Collecting Data with Hardware
+  - Readings. **None this week**
