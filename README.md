@@ -113,8 +113,7 @@ By the end of this course, students will be able to:
 
 - **Topic 4:** Story-telling with Maps II: Spatial Analysis
   - Readings. **None this week**
-  - Lecture Notes
-  - Lecture Slides
-  - Lab
-  - Activity
-  - Quiz
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/2gn3r2zaxn73kqwimsif8/07_data_storytelling_analysis.pptx?rlkey=b5uakwrnuhwzohkvolorewe9h&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/xgzpcr6uma92qrkox6ok6/07_Digital-Mapping-Lab-7.docx?rlkey=s2ww8a9mt9rxhvj8cjh2oqt74&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/inhnm7qoy3df02zh28mco/07-Digital-Mapping-Activity-7-Assignment.docx?rlkey=tjl8qeasdk1lea27ydnh10zn7&dl=0)
+  - [Quiz](https://www.dropbox.com/scl/fi/wiyg7nsh0wezs1qzzt8ii/07_Digital-Mapping-Quiz-7.docx?rlkey=t3idojz817an7w91n1netjbvi&dl=00)
