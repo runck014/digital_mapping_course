@@ -119,5 +119,8 @@ By the end of this course, students will be able to:
   - [Quiz](https://www.dropbox.com/scl/fi/wiyg7nsh0wezs1qzzt8ii/07_Digital-Mapping-Quiz-7.docx?rlkey=t3idojz817an7w91n1netjbvi&dl=00)
 
 ### Part 3: Spatial Data Collection, Storage, and Preprocessing
-- **Topic 1:** Collecting Data with Hardware
+- **Topic 1:** Collecting Data with Software -- Active and Voluntary
   - Readings. **None this week**
+ 
+- **Topic 2:** Collecting Data with Software -- Passive and Involuntary
+  - Readings. <Something with Ethics and Privacy
