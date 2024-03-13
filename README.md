@@ -125,6 +125,7 @@ By the end of this course, students will be able to:
   - [Lecture Slides](https://www.dropbox.com/scl/fi/v5eo1o6ce4u771ctl1m6o/08_data_collection.pptx?rlkey=781f7uoql2u3zyy8harrjuue9&dl=0)
   - [Guest Lecture Map Link](https://www.spatialgalen.com/_files/ugd/3b6229_82e632d2a8064843833ed2096cb00fff.pdf)
   - [Guest Lecture Storymap Link](https://storymaps.arcgis.com/stories/dfda5ab6ec3944a68aab2fc7163bda10)
+  - [Guest Lecture Slides](https://www.dropbox.com/scl/fi/jt8wqo83urterqn6gzu94/08_MnDOT_UMNPresentation_20240312.pptx?rlkey=voyuhiprgdq5hjtgubp6jiwm3&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/qw4fcjogqu7s0k72dskgy/08_Digital-Mapping-Lab-8.docx?rlkey=7n0cc2jnz4wc3lf1vr5kudth9&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/jsvfokil3v58hmw97wcze/08-Digital-Mapping-Activity-8-Assignment.docx?rlkey=4vlcrdgw4dn2ck4b9or4mj1lp&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3794083)
