@@ -149,10 +149,10 @@ By the end of this course, students will be able to:
   
 - **Topic 4:** Geodesign Part 2
   - Readings
-    - [link]()
-        Slotterback et al. 2016.
-    -  [link]()
-        Batty
+    - [link](https://www.dropbox.com/scl/fi/eyn9nv6hamwtikgzpw106/Slotterback-et-al.-2016-Collaborative-Geodesign-to-advance-multifunctional.pdf?rlkey=3grqefqzr5gzmwesq6r1sdzkn&dl=0)
+        Slotterback et al. 2016. Collaborative Geodesign to advance multifunctional landscapes.
+    -  [link](https://www.dropbox.com/scl/fi/jdkzgq5z66a72fi1cowqt/Batty-2013-Defining-Geodesign-GIS-Design.pdf?rlkey=duhclavf3gis3ys84110j1jx8&dl=0)
+        Batty (2013). Defining Geodesign (=GIS + Design).
   - [Lecture Slides]()
   - [Lecture Notes]()
   - [Lab]()
