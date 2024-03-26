@@ -141,11 +141,10 @@ By the end of this course, students will be able to:
 
 - **Topic 3:** Geodeisgn Part 1 -- Case Study: Landscape Planning and Community Action
   - Readings: No new readings this week.
-  - [Lecture Slides]()
-  - [Lecture Notes]()
-  - [Lab]()
-  - [Activity]()
-  - [Quiz]()
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/8omvkccpiiv5xm5tiz9ym/10_geodesign_part_1.pptx?rlkey=38dnrrc69lqch8hijpqiky6mn&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/19rk1jmxute51blf9qnqw/10_Digital-Mapping-Lab-10.docx?rlkey=tl3ai64thngunqoh3nxcovyko&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/ldyab3jixiq8o2xzs49j7/10-Digital-Mapping-Activity-10-Assignment.docx?rlkey=ry6kzzhx6m4aiy0nnkx2a8zit&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3805718)
   
 - **Topic 4:** Geodesign Part 2
   - Readings
