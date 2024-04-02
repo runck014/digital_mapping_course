@@ -119,7 +119,7 @@ By the end of this course, students will be able to:
   - [Quiz](https://www.dropbox.com/scl/fi/wiyg7nsh0wezs1qzzt8ii/07_Digital-Mapping-Quiz-7.docx?rlkey=t3idojz817an7w91n1netjbvi&dl=00)
 
 ### Part 3: Spatial Data Collection, Storage, and Preprocessing
-- **Topic 1:** Collecting Data with Software -- Active and Voluntary
+- **Topic 1:** Collecting Data with Software -- Active and Voluntary --- Case Study: Mapping MnDOT Roadways
   - Readings. **None this week**
   - [Lecture Notes](https://www.dropbox.com/scl/fi/ilko9irgmsms0amdk2oip/08_data_collection_Lecture-Notes.docx?rlkey=gw60x67aa08eenyfprkll05jh&dl=0)
   - [Lecture Slides](https://www.dropbox.com/scl/fi/v5eo1o6ce4u771ctl1m6o/08_data_collection.pptx?rlkey=781f7uoql2u3zyy8harrjuue9&dl=0)
@@ -130,10 +130,30 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/jsvfokil3v58hmw97wcze/08-Digital-Mapping-Activity-8-Assignment.docx?rlkey=4vlcrdgw4dn2ck4b9or4mj1lp&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3794083)
  
-- **Topic 2:** Collecting Data with Software -- Passive and Involuntary
+- **Topic 2:** Collecting Data with Software -- Passive and Involuntary --- Case Study: Mapping Plant Breeding Programs
   - Readings.
     - [link](https://www.dropbox.com/scl/fi/we6o3e5trel4y8kav4fe8/Russell-and-de-Souza-2023-Counter-mapping-the-mobile-border-Racial-surveill.pdf?rlkey=s71668l32ozsp1g07tt0l1x9t&dl=0).
       Russell and de Souza. 2023. Counter-mapping the mobile border.
     - [link](https://www.dropbox.com/scl/fi/jvr9ajeiuqmwd58kcpu92/Bertino-and-Gertz-Security-and-Privacy-for-Geospatial-Data-Concepts.pdf?rlkey=rq94949i4oz0iy1qy8rjjt5i3&dl=0).
       Bertino and Gertz. 2008. Security and Privacy for Geospatial Data.
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/f6zpw5f3ktlf5tirsk021/09_data_collection_software.pptx?rlkey=bvnwhysywyfiq054xhlu1w9bw&dl=0)
+  - No Lab, Activity, or Quiz
+
+- **Topic 3:** Geodeisgn Part 1 -- Case Study: Landscape Planning and Community Action
+  - Readings: No new readings this week.
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/8omvkccpiiv5xm5tiz9ym/10_geodesign_part_1.pptx?rlkey=38dnrrc69lqch8hijpqiky6mn&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/19rk1jmxute51blf9qnqw/10_Digital-Mapping-Lab-10.docx?rlkey=tl3ai64thngunqoh3nxcovyko&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/ldyab3jixiq8o2xzs49j7/10-Digital-Mapping-Activity-10-Assignment.docx?rlkey=ry6kzzhx6m4aiy0nnkx2a8zit&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3805718)
   
+- **Topic 4:** Geodesign Part 2
+  - Readings
+    - [link](https://www.dropbox.com/scl/fi/eyn9nv6hamwtikgzpw106/Slotterback-et-al.-2016-Collaborative-Geodesign-to-advance-multifunctional.pdf?rlkey=3grqefqzr5gzmwesq6r1sdzkn&dl=0)
+        Slotterback et al. 2016. Collaborative Geodesign to advance multifunctional landscapes.
+    -  [link](https://www.dropbox.com/scl/fi/jdkzgq5z66a72fi1cowqt/Batty-2013-Defining-Geodesign-GIS-Design.pdf?rlkey=duhclavf3gis3ys84110j1jx8&dl=0)
+        Batty (2013). Defining Geodesign (=GIS + Design).
+  - [Lecture Slides]()
+  - [Lecture Notes]()
+  - [Lab]()
+  - [Activity]()
+  - [Quiz]()
