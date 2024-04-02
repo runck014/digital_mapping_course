@@ -146,7 +146,7 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/ldyab3jixiq8o2xzs49j7/10-Digital-Mapping-Activity-10-Assignment.docx?rlkey=ry6kzzhx6m4aiy0nnkx2a8zit&dl=0)
   - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3805718)
   
-- **Topic 4:** Geodesign Part 2
+- **Topic 4:** Geodesign Part 2 -- Case Study Continued: Landscape Planning and Community Action
   - Readings
     - [link](https://www.dropbox.com/scl/fi/eyn9nv6hamwtikgzpw106/Slotterback-et-al.-2016-Collaborative-Geodesign-to-advance-multifunctional.pdf?rlkey=3grqefqzr5gzmwesq6r1sdzkn&dl=0)
         Slotterback et al. 2016. Collaborative Geodesign to advance multifunctional landscapes.
