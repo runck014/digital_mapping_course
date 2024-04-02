@@ -154,6 +154,6 @@ By the end of this course, students will be able to:
         Batty (2013). Defining Geodesign (=GIS + Design).
   - [Lecture Slides]()
   - [Lecture Notes]()
-  - [Lab]()
-  - [Activity]()
-  - [Quiz]()
+  - [Lab](https://www.dropbox.com/scl/fi/casjfl04nmrcqehov7mdo/11_Digital-Mapping-Lab-11.docx?rlkey=quaojwbpb7lwxz666c8n0s02a&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/72dzpyhpdlm5knv6xihg8/11-Digital-Mapping-Activity-11-Assignment.docx?rlkey=t8fq3bz24u0gw9lzezerew21l&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3810462)
