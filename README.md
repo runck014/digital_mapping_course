@@ -159,9 +159,9 @@ By the end of this course, students will be able to:
  
 
 ### Part 3: Advanced Map Hacking Techniques
+- **Topic 1:** Map Automation
   - No Readings.
-  - [Lecture Slides]
-  - [Lecture Notes]
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/aoyr0gx94cxdfulu8ja4r/12_automated_mapping.pptx?rlkey=xrylwbz18acmdz963h8xmbgl7&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/71lvdwv0pbjnbhw7m31vq/12_Digital-Mapping-Lab-12.docx?rlkey=3c1e0rzq3c13noyrxyp51k406&dl=0)
-  - [Activity]()
-  - [Quiz]()
+  - [Activity](https://www.dropbox.com/scl/fi/xcpyo7i00a2g4kv3aqdnh/12-Digital-Mapping-Activity-12-Assignment.docx?rlkey=jy1t4kxwpgdoxeu7iiqbwzadl&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3815721)
