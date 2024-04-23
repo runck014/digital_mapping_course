@@ -175,3 +175,4 @@ By the end of this course, students will be able to:
  
 - **Topic 3:** Essential Skills for Advanced Map Hacking
   - No Readings.
+  - [Final Project](https://canvas.umn.edu/courses/423700/assignments/3828762)
