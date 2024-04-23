@@ -175,4 +175,5 @@ By the end of this course, students will be able to:
  
 - **Topic 3:** Essential Skills for Advanced Map Hacking
   - No Readings.
+  - [Complete Student Rating of Teaching](https://go.blueja.io/PNlCznrwPUOMqmGaWiOwpw). Thank you for a great semester! You've all done a great job and achieved so much.
   - [Final Project](https://canvas.umn.edu/courses/423700/assignments/3828762)
