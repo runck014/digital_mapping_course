@@ -118,7 +118,7 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/inhnm7qoy3df02zh28mco/07-Digital-Mapping-Activity-7-Assignment.docx?rlkey=tjl8qeasdk1lea27ydnh10zn7&dl=0)
   - [Quiz](https://www.dropbox.com/scl/fi/wiyg7nsh0wezs1qzzt8ii/07_Digital-Mapping-Quiz-7.docx?rlkey=t3idojz817an7w91n1netjbvi&dl=00)
 
-### Part 3: Spatial Data Collection, Storage, and Preprocessing
+### Part 3: Case Studies and Spatial Data Collection, Storage, and Preprocessing
 - **Topic 1:** Collecting Data with Software -- Active and Voluntary --- Case Study: Mapping MnDOT Roadways
   - Readings. **None this week**
   - [Lecture Notes](https://www.dropbox.com/scl/fi/ilko9irgmsms0amdk2oip/08_data_collection_Lecture-Notes.docx?rlkey=gw60x67aa08eenyfprkll05jh&dl=0)
