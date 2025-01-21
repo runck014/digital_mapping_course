@@ -32,12 +32,34 @@ By the end of this course, students will be able to:
 ## Course Outline
 
 ### Part 1: A Framework for Impactful Maps 
-- **Topic 1:** Course Overview and History of Map Hacking (01/16/2024)
+- **Topic 1:** Course Overview and History of Map Hacking (01/21/2025)
   - [Lecture Notes](https://www.dropbox.com/scl/fi/4py9uyxthxf2h6khqled4/01_Introduction_History_Digital-Mapping-Lecture-Notes.docx?rlkey=e44hqj66c6zx60tomi4zrzi5z&dl=0)
   - [Lecture and Activity Slides](https://www.dropbox.com/scl/fi/jyrzvt3f2yham4clofzmk/01_Introduction_History_Digital-Mapping-Lecture-Notes.pptx?rlkey=d97699b7dddz6ddjez6nkgwgf&dl=0)
   - [Lab 1](https://www.dropbox.com/scl/fi/dbryb9hk0nfyu5flx9gs6/01_Digital-Mapping-Lab-1.docx?rlkey=s29e4rlj4f2tc7the75knp9vh&dl=0)
-  - [Quiz on Canvas](https://canvas.umn.edu/courses/423700/assignments/3734627)
+  - Quiz on Canvas
   - [Activity 1 Assignment](https://canvas.umn.edu/courses/423700/assignments/3735006)
   - Optional Readings:
       - Haklay et al 2008. Web Mapping 2.0. Geography Compass. [link](https://www.dropbox.com/scl/fi/c3i4qygodp9nw3zkyiral/Haklay-et-al.-2008-Web-Mapping-2.0-The-Neogeography-of-the-GeoWeb.pdf?rlkey=xbsoyczyykc3l3pizyl4t9nbv&dl=0)
       - Goodchild 2009. NeoGeography and the nature of geographic expertise. Jrnl Location Based Services [link](https://www.dropbox.com/scl/fi/iabc28eqyknrbgfo975ky/Goodchild-2009-NeoGeography-and-the-nature-of-geographic-expertis.pdf?rlkey=4jj7jwysl3r2hm2ifq7ky12h8&dl=0)
+
+
+- **Topic 2:** Frameworks to analyze impactful digital maps (01/28/2025)
+  - Readings
+
+    - [link](https://www.dropbox.com/scl/fi/5xn7hmj7n4hq0gkhiiq10/Mumford-2006-The-story-of-socio-technical-design-reflections-o.pdf?rlkey=0d1v8c8ue98uvog57rlsbpv16&dl=0).
+    Mumford. 2006. The story of socio-technical design.
+    **Note:** *Read this article thoughtfully. What are socio-technical systems? What are the components of each? What is the design approach in this tradition?* 
+ 
+    - [link](https://www.dropbox.com/scl/fi/0dyaydlsvw227u1nm5z5z/McConchie-2015-Hacker-Cartography-Crowdsourced-Geography-OpenSt.pdf?rlkey=dhfi68lbwnq0j7zkpvr8hwvkx&dl=0).
+      McConchie 2015. Hacker Cartography. ACME. **Note:** *Read this quickly. Focus on the culture of map hacking. What is it? What does it promise? What are its limits?*
+
+    - [link](https://www.dropbox.com/scl/fi/snsvhn140kvjvfuep3vkl/Manson-et-al.-2020-Methodological-Issues-of-Spatial-Agent-Based-Model.pdf?rlkey=v5dy5o3l54p99mjqfq0nkq1x9&dl=0).
+      **Read sections 3.1-4.6** of Mason et al 2020. Methodological Issues of Spatial Agent-based Models. JASSS. 
+      **Note:** *Read these sections and note the various ways that space, time, and scale are conceptualized. What are the opportunities and limitations of each approach?*
+
+
+  - [Lecture Notes](https://www.dropbox.com/scl/fi/fse1wi2rpm3tvc1etu3zd/02_Impact_Frameworks_Digital-Mapping-Lecture-Notes.docx?rlkey=rqijy2cul18qcu7vxfpe1k66g&dl=0)
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/cprtt0qw54ij2nym10ce7/02_Impact_Frameworks_Digital-Mapping-Lecture.pptx?rlkey=sre1v9xuy2gy1bq45dts3iw5d&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/z2qhtqdxssukjkc6fhyg1/02_Digital-Mapping-Lab-2.docx?rlkey=co34jpt8rjx41crb0edg380np&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/uhgp28mmf7w790q4fiyjs/02-Digital-Mapping-Activity-2-Assignment.docx?rlkey=jl6d160wxq8fowtl3h6644xmv&dl=0)
+  - Quiz on Canvas
