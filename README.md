@@ -43,7 +43,7 @@ By the end of this course, students will be able to:
       - Goodchild 2009. NeoGeography and the nature of geographic expertise. Jrnl Location Based Services [link](https://www.dropbox.com/scl/fi/iabc28eqyknrbgfo975ky/Goodchild-2009-NeoGeography-and-the-nature-of-geographic-expertis.pdf?rlkey=4jj7jwysl3r2hm2ifq7ky12h8&dl=0)
 
 
-- **Topic 2:** Frameworks to analyze impactful digital maps (01/23/2024)
+- **Topic 2:** Frameworks to analyze impactful digital maps (01/28/2025)
   - Readings
 
     - [link](https://www.dropbox.com/scl/fi/5xn7hmj7n4hq0gkhiiq10/Mumford-2006-The-story-of-socio-technical-design-reflections-o.pdf?rlkey=0d1v8c8ue98uvog57rlsbpv16&dl=0).
