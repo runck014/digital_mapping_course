@@ -8,7 +8,7 @@ By the end of this course, you will have the foundational skills required to qui
 
 
 
-## Learning Objectives
+## Learning Objectives 
 
 By the end of this course, students will be able to:
 1.	Describe and analyze the way geotechnologies are at the intersection of technology and society across multiple industries (such as agriculture, environmental services, logistics) and sociocultural activities (ranging from activism, athletics to art)
