@@ -77,4 +77,12 @@ By the end of this course, students will be able to:
   - [Lecture Slides](https://www.dropbox.com/scl/fi/tz61yn681jhaw1uxwn5e3/03_Analysis_Techniques_Digital-Mapping-Lecture.pptx?rlkey=01lsxld5bft4ew542mhwmuuuh&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/sro66ks2r04zsrqjcrneq/03_Digital-Mapping-Lab-3.docx?rlkey=auiofxv7sf2bk23osce44pnlg&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/d2f1ezqcmi55v0f7x6odc/03-Digital-Mapping-Activity-3-Assignment.docx?rlkey=yba4d4b651tpk9g7jueuxj2rd&dl=0)
-  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3759219)
+  - Quiz on Canvas
+
+### Part 2: Spatial Data Visualization and Analysis 
+- **Topic 1:** Data-driven Maps and Dashboards (02/11/2024)
+  - [Lecture Notes](https://www.dropbox.com/scl/fi/mj8zb35o70y6e48jzac5o/04_Data_driven_Map_Hacking-Lecture-Notes.docx?rlkey=zriccp6yeqyp5jojcw7a7ps7a&dl=0)
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/c1w8n3xruqrx3oyhdw87m/04_Data_driven_Map_Hacking.pptx?rlkey=gtwqc3aq7zea4vsdmxq6bn7i6&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/35fqfzxz7eajn9n5iws9s/04_Digital-Mapping-Lab-4.docx?rlkey=cjubdl2981f91q2i12mik6a8j&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/psscd1p8ggttrtzium8p2/04-Digital-Mapping-Activity-4-Assignment.docx?rlkey=x218af5mxusoo0xq32iwtt1sx&dl=0)
+  - Quiz on canvas
