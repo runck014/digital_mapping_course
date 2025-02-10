@@ -86,3 +86,14 @@ By the end of this course, students will be able to:
   - [Lab](https://www.dropbox.com/scl/fi/35fqfzxz7eajn9n5iws9s/04_Digital-Mapping-Lab-4.docx?rlkey=cjubdl2981f91q2i12mik6a8j&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/psscd1p8ggttrtzium8p2/04-Digital-Mapping-Activity-4-Assignment.docx?rlkey=x218af5mxusoo0xq32iwtt1sx&dl=0)
   - Quiz on canvas
+ 
+- **Topic 2:** Sharing and Collaboration (02/18/2024)
+  - Readings. **Note:** *In both readings, focus on how the authors describe people, design processes, and technology accessibility.*
+    - [link](https://www.dropbox.com/scl/fi/l3uef0qmkausmxrqxqqw3/Haklay-and-Tob-n-2003-Usability-evaluation-and-PPGIS-towards-a-user-cen.pdf?rlkey=k4o31z86f3tdoouw7wwjmy11b&dl=0).
+      Haklay and Tobon. 2003. Usability evaluation and PPGIS: towards a user-centered design approach.
+    - [link](https://www.dropbox.com/scl/fi/ix9y35twm2d489gc1ur3z/Sieber-2006-Public-Participation-Geographic-Information-System.pdf?rlkey=y77d8s0anuwcdc031nb2tvlyo&dl=0)
+      Sieber. 2006. Public Participation Geographic Information Systems: A Literature Review and Framework.
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/kg4w0s3ve18eayweatah0/05_Data_Sharing_and_Collaboration.pptx?rlkey=jxdoiwn58erb18gm3okdsi05f&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/4uleojszl33pi4pwffk27/05_Digital-Mapping-Lab-5.docx?rlkey=wsvwgppa8hywfjjwdjaehk50i&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/quhn4eq5cwdes7p7aemuz/05-Digital-Mapping-Activity-5Assignment.docx?rlkey=4ss1o5z3zpb6ngwnxl18i3u00&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3771024)
