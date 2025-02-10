@@ -96,4 +96,4 @@ By the end of this course, students will be able to:
   - [Lecture Slides](https://www.dropbox.com/scl/fi/kg4w0s3ve18eayweatah0/05_Data_Sharing_and_Collaboration.pptx?rlkey=jxdoiwn58erb18gm3okdsi05f&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/4uleojszl33pi4pwffk27/05_Digital-Mapping-Lab-5.docx?rlkey=wsvwgppa8hywfjjwdjaehk50i&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/quhn4eq5cwdes7p7aemuz/05-Digital-Mapping-Activity-5Assignment.docx?rlkey=4ss1o5z3zpb6ngwnxl18i3u00&dl=0)
-  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3771024)
+  - Quiz on canvas
