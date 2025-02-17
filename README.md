@@ -64,7 +64,7 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/uhgp28mmf7w790q4fiyjs/02-Digital-Mapping-Activity-2-Assignment.docx?rlkey=jl6d160wxq8fowtl3h6644xmv&dl=0)
   - Quiz on Canvas
  
-- **Topic 3:** Techniques to design impactful digital maps (02/04/2024)
+- **Topic 3:** Techniques to design impactful digital maps (02/04/2025)
   - Readings:
     - [link](https://www.dropbox.com/scl/fi/m7iakzqewkk3ulhjaqz0r/Baxter-and-Sommerville-2011-Socio-technical-systems-From-design-methods-to-sy.pdf?rlkey=z07iu2k1gsqhsq1lz591028n9&dl=0)
       Baxter and Sommerville 2011. Socio-technical systems: From design methods to systems engineering. Interacting with Computers. **Note:** *Read this quickly. What new information about design for COMPUTER systems is presented here?*
@@ -80,14 +80,14 @@ By the end of this course, students will be able to:
   - Quiz on Canvas
 
 ### Part 2: Spatial Data Visualization and Analysis 
-- **Topic 1:** Data-driven Maps and Dashboards (02/11/2024)
+- **Topic 1:** Data-driven Maps and Dashboards (02/11/2025)
   - [Lecture Notes](https://www.dropbox.com/scl/fi/mj8zb35o70y6e48jzac5o/04_Data_driven_Map_Hacking-Lecture-Notes.docx?rlkey=zriccp6yeqyp5jojcw7a7ps7a&dl=0)
   - [Lecture Slides](https://www.dropbox.com/scl/fi/c1w8n3xruqrx3oyhdw87m/04_Data_driven_Map_Hacking.pptx?rlkey=gtwqc3aq7zea4vsdmxq6bn7i6&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/35fqfzxz7eajn9n5iws9s/04_Digital-Mapping-Lab-4.docx?rlkey=cjubdl2981f91q2i12mik6a8j&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/psscd1p8ggttrtzium8p2/04-Digital-Mapping-Activity-4-Assignment.docx?rlkey=x218af5mxusoo0xq32iwtt1sx&dl=0)
   - Quiz on canvas
  
-- **Topic 2:** Sharing and Collaboration (02/18/2024)
+- **Topic 2:** Sharing and Collaboration (02/18/2025)
   - Readings. **Note:** *In both readings, focus on how the authors describe people, design processes, and technology accessibility.*
     - [link](https://www.dropbox.com/scl/fi/l3uef0qmkausmxrqxqqw3/Haklay-and-Tob-n-2003-Usability-evaluation-and-PPGIS-towards-a-user-cen.pdf?rlkey=k4o31z86f3tdoouw7wwjmy11b&dl=0).
       Haklay and Tobon. 2003. Usability evaluation and PPGIS: towards a user-centered design approach.
@@ -97,3 +97,16 @@ By the end of this course, students will be able to:
   - [Lab](https://www.dropbox.com/scl/fi/4uleojszl33pi4pwffk27/05_Digital-Mapping-Lab-5.docx?rlkey=wsvwgppa8hywfjjwdjaehk50i&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/quhn4eq5cwdes7p7aemuz/05-Digital-Mapping-Activity-5Assignment.docx?rlkey=4ss1o5z3zpb6ngwnxl18i3u00&dl=0)
   - Quiz on canvas
+ 
+- **Topic 3:** Storytelling with Maps: Data Summarization (02/25/2025)
+  - Readings. **Note:** Read Roth deeply.
+    - [link](https://www.dropbox.com/scl/fi/3p0kk00fcmd0spctndji6/Roth-2021-Cartographic-Design-as-Visual-Storytelling-Synthe.pdf?rlkey=9fdy4k9abm1ey8ckknsl7yjlo&dl=0).
+      Roth. 2021. Cartographic Design as Visual Storytelling: Synthesis and Review of Map-Based Narratives, Genres, and Tropes
+    - Optional. [link](https://doc.arcgis.com/en/arcgis-online/analyze/summary-statistics-mv.htm). Summary Statistics. For reference only.
+    - Optional. [link](https://doc.arcgis.com/en/arcgis-online/analyze/aggregate-points-mv.htm). Summarize Data tools in ArcGIS Online. For reference only.
+  - [Lecture notes](https://www.dropbox.com/scl/fi/ht1gwr2lfib0il54pddfg/06_storytelling-Lecture-Notes.docx?rlkey=1efkgaal95r0tpp6d2m12o5eh&dl=0)
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/c23c5o8chpumbj4sga0rt/06_data_storytelling_summarization.pptx?rlkey=ukoy3f9yclm2o7sjwpgh1fsz4&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/2s20hvc52vq64v3upkjwu/06_Digital-Mapping-Lab-6.docx?rlkey=ux1x7s7l3koxj69ktwgaiim9z&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/06ng3nurr1l99fe5erg55/06-Digital-Mapping-Activity-6-Assignment.docx?rlkey=kexfpgbmw00ojdmzfyyvwlr24&dl=0)
+  - Quiz on canvas
+
