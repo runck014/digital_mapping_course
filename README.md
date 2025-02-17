@@ -98,7 +98,7 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/quhn4eq5cwdes7p7aemuz/05-Digital-Mapping-Activity-5Assignment.docx?rlkey=4ss1o5z3zpb6ngwnxl18i3u00&dl=0)
   - Quiz on canvas
  
-- **Topic 3:** Storytelling with Maps: Data Summarization (02/20/2024)
+- **Topic 3:** Storytelling with Maps: Data Summarization (02/25/2025)
   - Readings. **Note:** Read Roth deeply.
     - [link](https://www.dropbox.com/scl/fi/3p0kk00fcmd0spctndji6/Roth-2021-Cartographic-Design-as-Visual-Storytelling-Synthe.pdf?rlkey=9fdy4k9abm1ey8ckknsl7yjlo&dl=0).
       Roth. 2021. Cartographic Design as Visual Storytelling: Synthesis and Review of Map-Based Narratives, Genres, and Tropes
