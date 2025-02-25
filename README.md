@@ -110,3 +110,9 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/06ng3nurr1l99fe5erg55/06-Digital-Mapping-Activity-6-Assignment.docx?rlkey=kexfpgbmw00ojdmzfyyvwlr24&dl=0)
   - Quiz on canvas
 
+- **Topic 4:** Story-telling with Maps II: Spatial Analysis (03/04/2025)
+  - Readings. **None this week**
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/2gn3r2zaxn73kqwimsif8/07_data_storytelling_analysis.pptx?rlkey=b5uakwrnuhwzohkvolorewe9h&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/xgzpcr6uma92qrkox6ok6/07_Digital-Mapping-Lab-7.docx?rlkey=s2ww8a9mt9rxhvj8cjh2oqt74&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/inhnm7qoy3df02zh28mco/07-Digital-Mapping-Activity-7-Assignment.docx?rlkey=tjl8qeasdk1lea27ydnh10zn7&dl=0)
+  - Quiz on canvas
