@@ -117,7 +117,9 @@ By the end of this course, students will be able to:
   - [Activity](https://www.dropbox.com/scl/fi/inhnm7qoy3df02zh28mco/07-Digital-Mapping-Activity-7-Assignment.docx?rlkey=tjl8qeasdk1lea27ydnh10zn7&dl=0)
   - Quiz on canvas
  
-### Part 3: Case Studies
+### Part 3: Case Studies and Data Collection
+You will use skills learned in map hacking to analyze multiple sociotechnical systems. You will also learn to collect data with software.
+
 - **Topic 1:** Case Study: Mapping MnDOT Roadways (03/18/2025)
   - Readings. **None this week**
   - [Lecture Notes](https://www.dropbox.com/scl/fi/ilko9irgmsms0amdk2oip/08_data_collection_Lecture-Notes.docx?rlkey=gw60x67aa08eenyfprkll05jh&dl=0)
@@ -127,4 +129,14 @@ By the end of this course, students will be able to:
   - [Guest Lecture Slides](https://www.dropbox.com/scl/fi/jt8wqo83urterqn6gzu94/08_MnDOT_UMNPresentation_20240312.pptx?rlkey=voyuhiprgdq5hjtgubp6jiwm3&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/qw4fcjogqu7s0k72dskgy/08_Digital-Mapping-Lab-8.docx?rlkey=7n0cc2jnz4wc3lf1vr5kudth9&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/jsvfokil3v58hmw97wcze/08-Digital-Mapping-Activity-8-Assignment.docx?rlkey=4vlcrdgw4dn2ck4b9or4mj1lp&dl=0)
-  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3794083)
+  - Quiz on canvas
+
+- **Topic 2:** Case Study: Mapping Plant Breeding Programs (03/25/2025)
+  - Readings.
+    - [link](https://www.dropbox.com/scl/fi/we6o3e5trel4y8kav4fe8/Russell-and-de-Souza-2023-Counter-mapping-the-mobile-border-Racial-surveill.pdf?rlkey=s71668l32ozsp1g07tt0l1x9t&dl=0).
+      Russell and de Souza. 2023. Counter-mapping the mobile border.
+    - [link](https://www.dropbox.com/scl/fi/jvr9ajeiuqmwd58kcpu92/Bertino-and-Gertz-Security-and-Privacy-for-Geospatial-Data-Concepts.pdf?rlkey=rq94949i4oz0iy1qy8rjjt5i3&dl=0).
+      Bertino and Gertz. 2008. Security and Privacy for Geospatial Data.
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/f6zpw5f3ktlf5tirsk021/09_data_collection_software.pptx?rlkey=bvnwhysywyfiq054xhlu1w9bw&dl=0)
+  - No Lab, Activity, or Quiz
+ 
