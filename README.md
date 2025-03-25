@@ -140,3 +140,9 @@ You will use skills learned in map hacking to analyze multiple sociotechnical sy
   - [Lecture Slides](https://www.dropbox.com/scl/fi/f6zpw5f3ktlf5tirsk021/09_data_collection_software.pptx?rlkey=bvnwhysywyfiq054xhlu1w9bw&dl=0)
   - No Lab, Activity, or Quiz
  
+- **Topic 3:** Geodeisgn Part 1 -- Case Study: Landscape Planning and Community Action (04/01/2025)
+  - Readings: No new readings this week.
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/8omvkccpiiv5xm5tiz9ym/10_geodesign_part_1.pptx?rlkey=38dnrrc69lqch8hijpqiky6mn&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/19rk1jmxute51blf9qnqw/10_Digital-Mapping-Lab-10.docx?rlkey=tl3ai64thngunqoh3nxcovyko&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/ldyab3jixiq8o2xzs49j7/10-Digital-Mapping-Activity-10-Assignment.docx?rlkey=ry6kzzhx6m4aiy0nnkx2a8zit&dl=0)
+  - Quiz on canvas
