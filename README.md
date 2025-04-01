@@ -146,3 +146,15 @@ You will use skills learned in map hacking to analyze multiple sociotechnical sy
   - [Lab](https://www.dropbox.com/scl/fi/19rk1jmxute51blf9qnqw/10_Digital-Mapping-Lab-10.docx?rlkey=tl3ai64thngunqoh3nxcovyko&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/ldyab3jixiq8o2xzs49j7/10-Digital-Mapping-Activity-10-Assignment.docx?rlkey=ry6kzzhx6m4aiy0nnkx2a8zit&dl=0)
   - Quiz on canvas
+
+- **Topic 4:** Geodesign Part 2 -- Case Study Continued: Landscape Planning and Community Action
+  - Readings
+    - [link](https://www.dropbox.com/scl/fi/eyn9nv6hamwtikgzpw106/Slotterback-et-al.-2016-Collaborative-Geodesign-to-advance-multifunctional.pdf?rlkey=3grqefqzr5gzmwesq6r1sdzkn&dl=0)
+        Slotterback et al. 2016. Collaborative Geodesign to advance multifunctional landscapes.
+    -  [link](https://www.dropbox.com/scl/fi/jdkzgq5z66a72fi1cowqt/Batty-2013-Defining-Geodesign-GIS-Design.pdf?rlkey=duhclavf3gis3ys84110j1jx8&dl=0)
+        Batty (2013). Defining Geodesign (=GIS + Design).
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/e8hx44nm867v00cpk52ej/11_geodesign_part_2.pptx?rlkey=pzwb2qa56wqbzgdeo8dgwujup&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/casjfl04nmrcqehov7mdo/11_Digital-Mapping-Lab-11.docx?rlkey=quaojwbpb7lwxz666c8n0s02a&dl=0)
+  - [Activity](https://www.dropbox.com/scl/fi/72dzpyhpdlm5knv6xihg8/11-Digital-Mapping-Activity-11-Assignment.docx?rlkey=t8fq3bz24u0gw9lzezerew21l&dl=0)
+  - Quiz on canvas
+ 
