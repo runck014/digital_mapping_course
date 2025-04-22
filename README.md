@@ -172,7 +172,7 @@ You will use skills learned in map hacking to analyze multiple sociotechnical sy
   - [Link to Tutorial](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/constituent-engagement/use-web-analytics-to-measure-your-traffic-in-arcgis-storymaps)
   - [Activity](https://www.dropbox.com/scl/fi/mc4yvlzc5e71pajgrn080/13-Digital-Mapping-Activity-13-Assignment.docx?rlkey=chlvn4d3so8o7xmp676oewjpj&dl=0)
   - [Lab](https://www.dropbox.com/scl/fi/tmkmpk20ae3wveqv8fkxw/13_Digital-Mapping-Lab-13.docx?rlkey=31mvrqgjyyc665yuniexohp90&dl=0)
-  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3820391)
+  - Quiz on canvas
  
 - **Topic 3:** Essential Skills for Advanced Map Hacking
   - No Readings.
