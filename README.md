@@ -165,3 +165,15 @@ You will use skills learned in map hacking to analyze multiple sociotechnical sy
   - [Lab](https://www.dropbox.com/scl/fi/71lvdwv0pbjnbhw7m31vq/12_Digital-Mapping-Lab-12.docx?rlkey=3c1e0rzq3c13noyrxyp51k406&dl=0)
   - [Activity](https://www.dropbox.com/scl/fi/xcpyo7i00a2g4kv3aqdnh/12-Digital-Mapping-Activity-12-Assignment.docx?rlkey=jy1t4kxwpgdoxeu7iiqbwzadl&dl=0)
   - Quiz on canvas
+
+- **Topic 2:** Monitoring User Interactions with Digital Maps
+  - No Readings.
+  - [Lecture Slides](https://www.dropbox.com/scl/fi/bhul4iyg4phhxu0vduc89/13_user_tracking.pptx?rlkey=8h3tullgajpzs9a9gnd0xsjj1&dl=0)
+  - [Link to Tutorial](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/constituent-engagement/use-web-analytics-to-measure-your-traffic-in-arcgis-storymaps)
+  - [Activity](https://www.dropbox.com/scl/fi/mc4yvlzc5e71pajgrn080/13-Digital-Mapping-Activity-13-Assignment.docx?rlkey=chlvn4d3so8o7xmp676oewjpj&dl=0)
+  - [Lab](https://www.dropbox.com/scl/fi/tmkmpk20ae3wveqv8fkxw/13_Digital-Mapping-Lab-13.docx?rlkey=31mvrqgjyyc665yuniexohp90&dl=0)
+  - [Quiz](https://canvas.umn.edu/courses/423700/assignments/3820391)
+ 
+- **Topic 3:** Essential Skills for Advanced Map Hacking
+  - No Readings.
+
