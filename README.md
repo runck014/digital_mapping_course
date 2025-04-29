@@ -176,4 +176,7 @@ You will use skills learned in map hacking to analyze multiple sociotechnical sy
  
 - **Topic 3:** Essential Skills for Advanced Map Hacking
   - No Readings.
-
+  - Class Plan
+    - End of semester project updates
+    - Semester review activity
+    - [Student rating of teaching](https://go.blueja.io/zB2kRN1NIEi9MJj5RyJHBw)
